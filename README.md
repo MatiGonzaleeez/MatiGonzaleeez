@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Matias Gonzalez
 
-<!--
-**MatiGonzaleeez/MatiGonzaleeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Analyst | SOC | DevSecOps with GitHub Advanced Security**  
+Focused on Threat Hunting, Secure SDLC, and API Security.  
+Currently learning **Python** and **Spring Boot/Security**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- SOC Analyst with experience in **SIEM** and **XDR**.  
+- Applying **DevSecOps** practices with GitHub Advanced Security (GHAS).  
+- Interest in **cloud security (AWS)** and **automation** (Python, PowerShell, Bash).   
+
+---
+
+## Skills & Tools
+**Security & SOC:** Elastic, Wazuh, CrowdStrike, Qualys, Tenable  
+**Cloud & Platforms:** AWS, Kubernetes, OpenShift  
+**AppSec & DevSecOps:** GitHub Advanced Security, Keycloak, Burp Suite, Snyk, SonarQube, CodeQL  
+**Automation & Scripting:** Python, PowerShell, Bash  
+**Integration & APIs:** MuleSoft, OWASP  
+
+---
+
+## Connect with me
+[LinkedIn](https://linkedin.com/in/matigonzaleez)
